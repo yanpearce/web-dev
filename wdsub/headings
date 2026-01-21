@@ -1,1 +1,33 @@
-
+<!DOCTYPE html> 
+<html>
+  <head>
+    <title>Just a invisible title</title>
+  </head>
+  <body>
+    <!--Just a cooment cause I can -->
+    <h1>
+      My courses
+    </h1>
+    
+    <h2>HS Game Theory<h2/>
+      <h3>Nash Equilibrium</h3>
+      <p>About N.E</p>
+      <h3>Normal Form</h3>
+      <p>This is Normal Form</p>
+     
+      
+    <h2>Precalc Trigonometry<h2/>
+        <h3>Unit Circle</h3>
+      <p>It's a circle</p>
+        <h3>Coterminal Angles</h3>
+      <p>Angles that are coterminal</p>
+      
+    <h2>Sociology<h2/>
+        <h3>Human Behavior</h3>
+      <p>They are dumb </p>
+          
+    <h2>British Literature<h2/>
+        <h3>Romantic Period</h3>  
+      <p>Very romantic 😉</p>
+  </body>
+</html>
