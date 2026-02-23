@@ -1,0 +1,29 @@
+/* this do be a comment */
+body {
+
+}
+
+h1, li, p, h2 {
+  color: lightblue;
+}
+      
+a {
+  color: white
+}
+      
+a:hover {
+  color: grey
+}
+      
+ul li {
+  font-style: italic; 
+  font-weight: lighter
+}
+      
+.ilink, ol p {
+  font-weight: bold
+}
+      
+#sublink:hover {
+  color: lightgreen
+}
