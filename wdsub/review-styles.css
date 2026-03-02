@@ -1,0 +1,38 @@
+/*For the format of page*/
+body{
+  margin:0px;
+  font: 15px 'roboto flex';
+  background-color:#2A3233
+}
+
+/*For the Title*/
+#title{
+  color:#32FCE5;
+  font: 25px 'schoolbell';
+  text-align:center;
+  background-color: #404D50;
+  margin-left: 200px;
+  margin-right:200px;
+  border-radius:5px;
+}
+
+/*For Review's color and background*/
+.reviews{
+  background-color:#404D50;
+  margin: 70px;
+  border-radius:5px;
+  padding: 5px;
+  font: 15px 'roboto flex';
+}
+
+h2, h1{
+  color:#32FCE5;
+}
+
+h2{
+  font: 30px 'schoolbell'
+}
+
+p{
+  color: black
+}
