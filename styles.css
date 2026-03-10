@@ -1,6 +1,8 @@
 /* this do be a comment */
 body {
-
+  background-color:rgba(0,0,0,0.5);
+  margin:0px;
+  margin-top: 0px
 }
 
 h1, li, p, h2 {
@@ -26,4 +28,13 @@ ul li {
       
 #sublink:hover {
   color: lightgreen
+}
+
+img{
+  z-index:-1;
+  position: fixed;
+  top: 0px;
+  width: 100vw;
+  height:100vh;
+  
 }
