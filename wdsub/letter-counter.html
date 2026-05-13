@@ -1,0 +1,33 @@
+<label for="input">Enter your name:</label>
+<input type="text" id="input"></input>
+
+<script>
+  function letterCounter(){
+  let name = document.getElementById("input").value;
+  for(let i = 0; i < name.length; i++){
+    let ltr = name.substr(i,1);
+    console.log("The next letter in your name is " + ltr);
+  }
+}
+
+
+
+
+
+
+// for (let _i = 0; _i < 5; _i++){
+//   console.log("This is the " + _i + "th time through the loop");
+// } 
+
+// for (let i = 10; i > 0; i--){
+//   console.log(i);
+// }
+
+//   console.log("Blast Off!"); 
+
+// for (let i = 0; i < 10; i++){
+//   console.log(10 - i);
+// }
+
+//   console.log("Blast Off!");
+</script>
